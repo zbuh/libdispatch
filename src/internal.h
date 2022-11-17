@@ -156,7 +156,7 @@
 #include <sys/event.h>
 #include <sys/mount.h>
 #include <sys/stat.h>
-#include <sys/sysctl.h>
+#include <linux/sysctl.h>
 #include <sys/socket.h>
 #include <sys/time.h>
 #include <netinet/in.h>
